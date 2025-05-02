@@ -1,0 +1,60 @@
+.\listings\main.o: main.c
+.\listings\main.o: stm32f4xx.h
+.\listings\main.o: ..\CORE\core_cm4.h
+.\listings\main.o: D:\Keil MDK5\ARM\ARMCC\Bin\..\include\stdint.h
+.\listings\main.o: ..\CORE\core_cmInstr.h
+.\listings\main.o: ..\CORE\core_cmFunc.h
+.\listings\main.o: ..\CORE\core_cm4_simd.h
+.\listings\main.o: system_stm32f4xx.h
+.\listings\main.o: stm32f4xx_conf.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\listings\main.o: ..\USER\stm32f4xx.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\listings\main.o: ..\FWLIB\inc\misc.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_cryp.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_hash.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_rng.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_can.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_dac.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
+.\listings\main.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+.\listings\main.o: ..\SYSTEM\sys.h
+.\listings\main.o: ..\SYSTEM\delay.h
+.\listings\main.o: ../HARDWARE/OLED/OLED.h
+.\listings\main.o: ../HARDWARE/OLED/OLED_Data.h
+.\listings\main.o: ../HARDWARE/EXTI/exti.h
+.\listings\main.o: ../HARDWARE/TIMER/timer.h
+.\listings\main.o: ../HARDWARE/GPIO/gpio.h
+.\listings\main.o: ../HARDWARE/BUZZER/buzzer.h
+.\listings\main.o: .\GLOBAL\global.h
+.\listings\main.o: ../SOFTWARE/PID/pid.h
+.\listings\main.o: ../SOFTWARE/PLL/pll.h
+.\listings\main.o: ../SOFTWARE/PLL/sogi.h
+.\listings\main.o: ../SOFTWARE/VOFA/Vofa.h
+.\listings\main.o: D:\Keil MDK5\ARM\ARMCC\Bin\..\include\stdbool.h
+.\listings\main.o: ../HARDWARE/KEY/key.h
+.\listings\main.o: main.h
+.\listings\main.o: ..\SYSTEM\usart.h
+.\listings\main.o: D:\Keil MDK5\ARM\ARMCC\Bin\..\include\stdio.h
+.\listings\main.o: D:\Keil MDK5\ARM\ARMCC\Bin\..\include\math.h
+.\listings\main.o: ../HARDWARE/AD7606/AD7606.h
+.\listings\main.o: ../HARDWARE/spi/spi.h
+.\listings\main.o: ..\DSP\Include\arm_math.h
+.\listings\main.o: ..\DSP\Include\core_cm4.h
+.\listings\main.o: D:\Keil MDK5\ARM\ARMCC\Bin\..\include\string.h
